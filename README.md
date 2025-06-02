@@ -1,9 +1,9 @@
 ## Simple React.js Project.
 
 ## ⚡live demo
- https://lnkd.in/dgZ7TfnX 
+ https://pizza-ashen-three.vercel.app/
 ## 🔗github
- https://lnkd.in/dbaP-Ygv
+ https://github.com/Ma7moud-Emad/pizza
 
 ## ✨Features:
 - Very simple application, where users can order one or more pizzas from a menu 
@@ -34,4 +34,4 @@
  - useNavigation
 
 ## Styling:
- - Tailwind 
+ - Tailwind css
