@@ -1,5 +1,9 @@
-## Live Demo
-https://pizza-ashen-three.vercel.app/
+## Simple React.js Project.
+
+## ⚡live demo
+ https://lnkd.in/dgZ7TfnX 
+## 🔗github
+ https://lnkd.in/dbaP-Ygv
 
 ## ✨Features:
 - Very simple application, where users can order one or more pizzas from a menu 
@@ -13,3 +17,21 @@ https://pizza-ashen-three.vercel.app/
 - Payments are made on delivery, so no payment processing is necessary in the app 
 - Each order will get a unique ID that should be displayed, so the user can later look up their order based on the ID 
 - Users should be able to mark their order as "priority" order even after it has been placed
+
+## State management
+- Redux & Redux toolkit
+
+## Hooks:
+ - useDispatch
+ - useSelector
+ - useLoaderData
+ - useActionData
+ - useState
+ - useNavigate
+ - useRef
+ - useFetcher
+ - useRouteError
+ - useNavigation
+
+## Styling:
+ - Tailwind 
