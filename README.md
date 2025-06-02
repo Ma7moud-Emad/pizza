@@ -1,4 +1,7 @@
-## Pizza App & Features:
+## Live Demo
+https://pizza-ashen-three.vercel.app/
+
+## ✨Features:
 - Very simple application, where users can order one or more pizzas from a menu 
 - Requires no user accounts and no login: users just input their names before using the app 
 - The pizza menu can change, so it should be loaded from an API 
