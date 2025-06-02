@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+.inputOrder {
+  @apply border border-stone-700 w-full outline-stone-500 px-2.5 py-1.5 rounded-lg;
+}
+.preBtn {
+  @apply bg-yellow-500 text-stone-100 px-4 py-2 rounded-md cursor-pointer text-lg font-medium capitalize focus:bg-yellow-600 hover:bg-yellow-600 transition-all;
+}
+.errorP {
+  @apply text-yellow-900 bg-yellow-700/30 p-2 mt-2 rounded-lg text-sm;
+}
+
+@utility w-half-4px {
+  width: calc((100% / 2) - 4px);
+}
